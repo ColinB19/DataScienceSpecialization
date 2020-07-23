@@ -1,2 +1,10 @@
 /Data_Scientists_Toolbox/*
+*/.Rhistory
+
+
+# R Programming #
 /R_Programming/specdata/*
+/R_Programming/artofdatascience.pdf
+/R_Programming/rprogramming.pdf
+/R_Programming/swirl.R
+/R_Programming/hw1_data.csv
