@@ -1,5 +1,5 @@
 # Just ignore the first module all together #
-"/Data Scientists Toolbox/*"
+/Data Scientists Toolbox/*
 
 # Ignoring the Data used in R Programming #
-"/R Programming/specdata/*"
+/R Programming/specdata/*
